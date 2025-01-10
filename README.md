@@ -1,4 +1,4 @@
-# 30-Day Machine Learning Engineer Challenge
+# 30-Day Data Science and Machine Learning Challenge
 
 This repository documents my journey over the course of 30 days as I follow a structured challenge to enhance my skills in **Data Science** and **Machine Learning**. Each day, I focused on a different topic, from foundational data analysis to building machine learning models. The goal of this challenge was to solidify my understanding of data science principles and tools, and to develop hands-on experience in real-world data problems.
 
@@ -99,5 +99,5 @@ You can find the completed deliverables in the respective folders for each week 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/30-day-machine-learning-challenge.git
-   cd 30-day-machine-learning-challenge
+   git clone https://github.com/yourusername/30-day-DS-and-ML-challenge.git
+   cd 30-day-DS-and-ML-challenge
